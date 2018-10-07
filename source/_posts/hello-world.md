@@ -1,38 +1,24 @@
+title: 'Week 1: Overview'
+tags: []
+categories:
+  - class
+  - announcement
+author: Kno
+date: 2018-09-25 16:01:00
 ---
-title: Hello World
----
-Welcome to [Hexo](https://hexo.io/)! This is your very first post. Check [documentation](https://hexo.io/docs/) for more info. If you get any problems when using Hexo, you can find the answer in [troubleshooting](https://hexo.io/docs/troubleshooting.html) or you can ask me on [GitHub](https://github.com/hexojs/hexo/issues).
+歡迎來到 Preda 2018 (Fall)! 
 
-## Quick Start
+這是一個資料的世界--各式各樣資料無所不在，而其中也蘊藏了真實乃至虛擬世界的各種訊息。實境虛境的界線早已模糊，先知與謊騙者難以區分；雖有時可見光明，但闇黑塵囂籠罩---這是一個蠻荒的世界！
 
-### Create a new post
+[Syllabus 教學計畫表](http://faculty.ndhu.edu.tw/~chtsao/edu/18/pda/p2d2018.GC__63860.pdf)
 
-``` bash
-$ hexo new "My New Post"
-```
+## 起點
+1. About me: 我的角度/偏見
+2. Prerequisites: Almost surely nontechnical (~~Calculus, Linear Algebra, Probability, Statistics~~). 一些高中數學以及不是很討厭數學，統計的態度就是很好的準備。如果你有個喜歡探索，喜歡接觸新奇/不熟悉的事物的心智，你應該會享受這趟心智輕旅行。
+3. Scope of the course: 資料/資料分析之 聽 ~~說~~ 讀 ~~寫~~
 
-More info: [Writing](https://hexo.io/docs/writing.html)
 
-### Run server
+## 引想問題
+### Data Analysis: What? Why and How?
 
-``` bash
-$ hexo server
-```
-
-More info: [Server](https://hexo.io/docs/server.html)
-
-### Generate static files
-
-``` bash
-$ hexo generate
-```
-
-More info: [Generating](https://hexo.io/docs/generating.html)
-
-### Deploy to remote sites
-
-``` bash
-$ hexo deploy
-```
-
-More info: [Deployment](https://hexo.io/docs/deployment.html)
+資料分析是什麼？為何我該了解它？而它又會如何影響我？

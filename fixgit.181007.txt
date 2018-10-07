@@ -1,0 +1,500 @@
+  160  cd
+  161  ls
+  162  ls -la
+  163  ls -la .na*
+  164  cd /etc
+  165  ls
+  166  cd nano
+  167  cd
+  168  ls
+  169  cd akno
+  170  ls
+  171  cd notes
+  172  ls
+  173  less nano_highlight.txt 
+  174  cd /etc/
+  175  ls
+  176  cd nanorc 
+  177  less nanorc
+  178  sudo nano nanorc
+  179  cd
+  180  ls
+  181  cd akno/
+  182  ls
+  183  nano 'data visualization.txt' 
+  184  mv 'data visualization.txt' data_visualization.txt 
+  185  ls
+  186  df
+  187  mv data_visualization.txt data_vis.txt 
+  188  ls
+  189  cd hack
+  190  ls
+  191  cd R
+  192  ls
+  193  nano g6class.r 
+  194  ls
+  195  cd rgames/
+  196  ls
+  197  nano rg.w08.Rmd 
+  198  aspell
+  199  aspell -x -c
+  200  ls
+  201  df
+  202  who
+  203  datee
+  204  date
+  205  exit
+  206  sync;
+  207  su
+  208  ls
+  209  git status
+  210  git commit -m "First commit"
+  211  git remote add origin https://github.com/chtsao/preda2018.git
+  212  git remote -v
+  213  git push origin master
+  214  git push origin master
+  215  git fetch origin master
+  216  ls
+  217  git push origin master
+  218  git remote -v
+  219  git push origin master
+  220  git remoet add pb https://github.com/chtsao/preda2018.git
+  221  git remote add pb https://github.com/chtsao/preda2018.git
+  222  git remote -v
+  223  git push origin master
+  224  pwd
+  225  ls
+  226  git fetch pb
+  227  catfish -h
+  228  ls
+  229  cd akno
+  230  ls
+  231  catfish da*
+  232  df
+  233  sync;
+  234  df
+  235  fdisk -l
+  236  df
+  237  exot
+  238  sudo pacman -Syu
+  239  df
+  240  df
+  241  who
+  242  sync;
+  243  ls
+  244  cd akno
+  245  ls
+  246  cd hack
+  247  ls
+  248  cd sbox
+  249  ls
+  250  git fetch https://github.com/chtsao/preda2018.git
+  251  git fetch https://github.com/chtsao/preda2018.git.io
+  252  git -h fetch
+  253  ls
+  254  mv ~/Downloads/preda2018-master.zip .
+  255  ls
+  256  mkdir preda2018
+  257  mv *.zip preda2018
+  258  ls
+  259  cd preda2018/
+  260  ls
+  261  unzip -d *
+  262  ls
+  263  unzip -d preda2018-master.zip 
+  264  unzip  preda2018-master.zip -x
+  265  ls
+  266  mv preda2018-master ..
+  267  cd ..
+  268  ls
+  269  rm -rf preda2018
+  270  ls
+  271  cd preda2018-master/
+  272  ls
+  273  git init
+  274  pwd
+  275  git add *
+  276  git add LICENSE
+  277  git commit -m 'initial project version'
+  278  git status
+  279  pwd
+  280  ls
+  281  hexo init
+  282  ls
+  283  cd ..
+  284  ls
+  285  cd preda2018-master/
+  286  ls
+  287  ls
+  288  less README.md 
+  289  nano README.md 
+  290  sync;
+  291  ls
+  292  git remote
+  293  git remote -v
+  294  pwd
+  295  ls
+  296  cd ..
+  297  rm -rf preda2018-master/
+  298  git clone https://github.com/chtsao/preda2018.git
+  299  ls
+  300  cd preda2018/
+  301  ls
+  302  git remote
+  303  git remote -v
+  304  git remote add pit https://github.com/chtsao/preda2018.git
+  305  git remote -v
+  306  git fetch pit
+  307  ls
+  308  cd pit/master
+  309  ls
+  310  git remote show origin
+  311  pwd
+  312  ls
+  313  ls
+  314  cd ..
+  315  ls
+  316  cd htest
+  317  ls
+  318  cd public/
+  319  ls
+  320  pwd
+  321  ls
+  322  cd ..
+  323  ls
+  324  cd ..
+  325  ls
+  326  mkdir preda
+  327  mv preda2018/ preda
+  328  ls
+  329  cd preda
+  330  ls
+  331  pwd
+  332  ls
+  333  pwd
+  334  ls
+  335  cd ..
+  336  cd preda/
+  337  ls
+  338  mv preda2018/ ..
+  339  ls
+  340  cd ..
+  341  ls
+  342  rmdir preda
+  343  hexo init preda
+  344  ls
+  345  cd preda
+  346  ls
+  347  npm install
+  348  ls
+  349  nano _config.yml
+  350  pwd
+  351  ls
+  352  nano _config.yml 
+  353  nano _config.yml 
+  354  ls
+  355  git init
+  356  git add *
+  357  git remote -v
+  358  git remote origin https://github.com/chtsao/preda2018.git
+  359  git remote add origin https://github.com/chtsao/preda2018.git
+  360  git push -h
+  361  pwd
+  362  ls
+  363  hexo server -d
+  364  git remote -v
+  365  git push origin --all
+  366  ls
+  367  hexo -h
+  368  hexo generate
+  369  ;s
+  370  ls
+  371  git push origin
+  372  cd ..
+  373  ls
+  374  cd preda
+  375  ls
+  376  pwd
+  377  ls
+  378  ls -l
+  379  cd docs
+  380  ls
+  381  cd ..
+  382  git push origin docs
+  383  ls
+  384  git push origin master
+  385  pwd
+  386  ls
+  387  git remote -v
+  388  cd docs
+  389  ls
+  390  git fetch origin
+  391  ls
+  392  ls -l
+  393  ls
+  394  cd ..
+  395  pwd
+  396  hexo server -d
+  397  ls
+  398  cd source
+  399  ls
+  400  cd _posts/
+  401  ls
+  402  less hello-world.md 
+  403  ls
+  404  ls
+  405  ls
+  406  ls
+  407  cd ..
+  408  ls
+  409  cd
+  410  ls
+  411  pwd
+  412  ls
+  413  hexo server -d
+  414  ls
+  415  hexo generate
+  416  git push origin
+  417  git push origin master
+  418  pwd
+  419  ls
+  420  cd docs
+  421  ls
+  422  git push origin --all
+  423  git remote -v
+  424  ls
+  425  cd ..
+  426  ls
+  427  npm install --save hexo-admin
+  428  npm audit fix
+  429  ls
+  430  cd docs
+  431  ls
+  432  ls
+  433  git push origin --all
+  434  hexo server -d
+  435  git push origin --all
+  436  git remote -v
+  437  hexo generate
+  438  git push origin --all
+  439  ls
+  440  cd ..
+  441  ls
+  442  git add docs
+  443  git commit -m "message"
+  444  ls
+  445  cd docs
+  446  git push origin master
+  447  ls
+  448  git push origin --all
+  449  git push origin master
+  450  git checkout master
+  451  git clone https://github.com/chtsao/preda2018.git
+  452  git remote -v
+  453  git checkout master
+  454  ls
+  455  cd preda2018/
+  456  ls
+  457  cd ..
+  458  ls
+  459  ls
+  460  rm -rf preda2018/
+  461  ls
+  462  cd ..
+  463  ls
+  464  hexo generate
+  465  cd docs
+  466  ls
+  467  ls
+  468  less index.html 
+  469  ls
+  470  git push origin
+  471  git push origin master
+  472  git pull origin
+  473  git fetch origin
+  474  git merge
+  475  git merge origin
+  476  git merge origin/master
+  477  ls
+  478  df
+  479  ls
+  480  cd ..
+  481  ls
+  482  cd source
+  483  ls
+  484  cd _drafts/
+  485  ls
+  486  cd ..
+  487  cd _posts/
+  488  ls
+  489  nano hello-world.md 
+  490  ls
+  491  ls
+  492  cd 
+  493  ls
+  494  cd akno
+  495  ls
+  496  cd hack
+  497  ls
+  498  cd sbox
+  499  ls
+  500  sync;
+  501  sync;
+  502  df
+  503  ls
+  504  cd akno
+  505  ls
+  506  cd hack
+  507  ls
+  508  cd sbox
+  509  ls
+  510  git clone https://github.com/chtsao/gitexp.git
+  511  cd gitexp/
+  512  ls
+  513  git remote -v
+  514  git status
+  515  echo "Hello World" > index.html
+  516  git add --all
+  517  git commit -m "Initial commit"
+  518  git push -u origin master
+  519  ls
+  520  mkdir docs
+  521  mv index.html docs
+  522  ls
+  523  git commit -m "2nd commit from mozare"
+  524  git add --all
+  525  git commit -m "2nd commit from mozare"
+  526  git push -u origin master
+  527  git push --help
+  528  cd ..
+  529  rm -rf giexp
+  530  rm -rf gitexp
+  531  git clone https://github.com/chtsao/gitexp.git
+  532  git add --all
+  533  ls
+  534  cd gitexp/
+  535  git remote -v
+  536  git add --all
+  537  git status
+  538  ls
+  539  cd docs
+  540  ls
+  541  nano index.html 
+  542  ls
+  543  cd ..
+  544  ls
+  545  nano index.html 
+  546  ls
+  547  cd docs
+  548  ls
+  549  nano index.html 
+  550  ls
+  551  cd ..
+  552  ls
+  553  git commit -m "Initial commit"
+  554  ls
+  555  git add .
+  556  git commit -m "2nd commit"
+  557  git status
+  558  git push 
+  559  cd ..
+  560  ls
+  561  cd preda2018
+  562  ls
+  563  cd ..
+  564  mv preda2018 preda2018.old
+  565  git clone https://github.com/chtsao/preda2018.git
+  566  cd preda2018
+  567  ls
+  568  git status
+  569  git remote -v
+  570  cd ..
+  571  ;s
+  572  ls
+  573  cd preda
+  574  ls
+  575  cd ..
+  576  mkdir zarc
+  577  mv preda zarc
+  578  mv preda*.old zarc
+  579  ls
+  580  cd preda2018/
+  581  ls
+  582  git add .
+  583  git add --all
+  584  cd ..
+  585  hexo init preda2018/
+  586  ls
+  587  rm -rf preda2018/
+  588  hexo init preda2018
+  589  cd preda2018/
+  590  ls
+  591  ls
+  592  npm install
+  593  ;s
+  594  ls
+  595  nano _config.yml 
+  596  cd ..
+  597  git clone https://github.com/chtsao/preda2018.git
+  598  cd preda2018/
+  599  git add -all
+  600  git init
+  601  git add --all
+  602  git add .
+  603  ls
+  604  hexo server -d
+  605  ls
+  606  git remote add https://github.com/chtsao/preda2018.git
+  607  git remote add origin https://github.com/chtsao/preda2018.git
+  608  git status
+  609  pwd
+  610  ls
+  611  hexo generate
+  612  ls
+  613  git push origin
+  614  pwd
+  615  git push --set-upstream origin master
+  616  git push origin
+  617  git add --all
+  618  git add .
+  619  git commit -m "1st commit"
+  620  git push -u origin master
+  621  pwd
+  622  ls
+  623  git pull origin master:docs
+  624  git add --all
+  625  git commit -m "fix 1 push error"
+  626  ls
+  627  git pull origin master:docs
+  628  git merge --allow-unrelated-histories
+  629  pwd
+  630  git remote -v
+  631  git branch -w
+  632  git branch -w
+  633  git branch -w
+  634  git branch -vv
+  635  git status
+  636  git remote show origin
+  637  git pull
+  638  git pull origin:docs
+  639  git remote -v
+  640  git branch --set-upstream-to=origin/<branch> master
+  641  git branch --set-upstream-to=origin/master master
+  642  git pull origin master
+  643  git merge ----allow-unrelated-histories
+  644  git merge --allow-unrelated-histories
+  645  git merge --allow-unrelated-histories
+  646  ls
+  647  ls
+  648  cd docs
+  649  ls
+  650  cd ..
+  651  git push origin
+  652  git commit -m "git push error"
+  653  ls -la
+  654  git add .
+  655  git add --all
+  656  git commit -m "git push error"
+  657  git push origin
+  658  history
+  659  history > fixgit.181007.txt
