@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Prelude to Data Analysis 2018</title>
+  
+  
+  <link href="/preda2018/atom.xml" rel="self"/>
+  
+  <link href="http://chtsao.github.io/preda2018/"/>
+  <updated>2018-10-17T07:02:42.546Z</updated>
+  <id>http://chtsao.github.io/preda2018/</id>
+  
+  <author>
+    <name>Kno Tsao</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Week 4 Conditional Probability and Bayes Theorem</title>
+    <link href="http://chtsao.github.io/preda2018/2018/10/15/w04.Bayes/"/>
+    <id>http://chtsao.github.io/preda2018/2018/10/15/w04.Bayes/</id>
+    <published>2018-10-15T08:13:01.000Z</published>
+    <updated>2018-10-17T07:02:42.546Z</updated>
+    
+    <content type="html"><![CDATA[<h3 id="Motivating-Questions"><a href="#Motivating-Questions" class="headerlink" title="Motivating Questions"></a>Motivating Questions</h3><ul><li>Fu and Dinner?: 她對我有Fu嗎？當她接受了我們一起晚餐的邀請時，對我有Fu的機率又有何變化？$P(Fu), P(FU|D), P(D|FU)$ 的差異與關聯。</li><li>Diagnosis (+/-) and Disease (D/ND)：（以某種程序或儀器）檢測判斷為有病，真正有病的機會是什麼？$P(D|+), P(D), P(+|D)$ 的差異與關聯。</li></ul><h3 id="Probability"><a href="#Probability" class="headerlink" title="Probability"></a>Probability</h3><h3 id="Conditional-probability"><a href="#Conditional-probability" class="headerlink" title="Conditional probability"></a>Conditional probability</h3><h3 id="Bayes-Theorem"><a href="#Bayes-Theorem" class="headerlink" title="Bayes Theorem"></a>Bayes Theorem</h3>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h3 id=&quot;Motivating-Questions&quot;&gt;&lt;a href=&quot;#Motivating-Questions&quot; class=&quot;headerlink&quot; title=&quot;Motivating Questions&quot;&gt;&lt;/a&gt;Motivating Questions&lt;/h3&gt;&lt;
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Week 3 Data Analysis 之前後上下</title>
+    <link href="http://chtsao.github.io/preda2018/2018/10/15/Week-3-Data-Analysis-%E4%B9%8B%E5%89%8D%E5%BE%8C%E4%B8%8A%E4%B8%8B/"/>
+    <id>http://chtsao.github.io/preda2018/2018/10/15/Week-3-Data-Analysis-之前後上下/</id>
+    <published>2018-10-15T07:53:43.000Z</published>
+    <updated>2018-10-15T08:09:05.482Z</updated>
+    
+    <content type="html"><![CDATA[<h3 id="DA-modules"><a href="#DA-modules" class="headerlink" title="DA modules"></a>DA modules</h3><p>Start with some questions or problems in mind </p><p>=&gt; Collect Data<br>=&gt; Exploratory data analysis (Data Visualization and various numerical summaries)<br>=&gt; Data analysis (Statistics, Machine learning, DL, AI etc)<br>=&gt; Inter-discussion/Joint work with subject field professionals<br>=&gt; Scientific report/ Media report</p><h3 id="Not-all-data-are-created-equal"><a href="#Not-all-data-are-created-equal" class="headerlink" title="Not all data are (created) equal"></a>Not all data are (created) equal</h3><p>Controlled experiment vs. observational study</p><p>Examples:</p><ul><li>Vitamin C ~ Cold</li><li>SKIII ~ whitening</li><li>Drinking ~ Lung Cancer </li></ul><p>Lurking/Confounding variable</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h3 id=&quot;DA-modules&quot;&gt;&lt;a href=&quot;#DA-modules&quot; class=&quot;headerlink&quot; title=&quot;DA modules&quot;&gt;&lt;/a&gt;DA modules&lt;/h3&gt;&lt;p&gt;Start with some questions or problems 
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Week 2 資料與資料分析概觀</title>
+    <link href="http://chtsao.github.io/preda2018/2018/10/07/post/"/>
+    <id>http://chtsao.github.io/preda2018/2018/10/07/post/</id>
+    <published>2018-10-07T07:11:21.000Z</published>
+    <updated>2018-10-15T07:49:50.701Z</updated>
+    
+    <content type="html"><![CDATA[<p>一般來說，我們可以將一個資料 (data set)想成一個 Excel的檔案。其中的n筆資料包含了p個變數名稱。例如：班級成績資料，其中包含了 n 位同學的 p 科成績（如國文、英文、數學等）；一般還會有學生姓名及學號等欄位以方便登錄區別。</p><p>雖然資料可以想像為真實世界的一個照片或側寫，因此角度與取景不同可能會影響其反應真實世界的有效性。但資料本身未嘗不是如此。不論是從數據面或圖像面，現代的資料常常是龐大而難以掌握。正因如此，我們提示幾個資料/資料分析的本質：</p><h4 id="瞎子摸象"><a href="#瞎子摸象" class="headerlink" title="瞎子摸象"></a>瞎子摸象</h4><p>Data Summary (Numerical and graphical) 如同瞎子摸象，應要隨時提醒自己不過是以管窺豹，以蠡測海。<br>由於複雜與龐大，資料常常需要被壓縮或選擇性地呈現。數據面：如平均、標準差、中位數、5-point summary 等 summary statistics; 圖形面：box plot, histogram, pie-chart 等。更不用說高維度的資料的資料壓縮。</p><h4 id="看著照後鏡開車"><a href="#看著照後鏡開車" class="headerlink" title="看著照後鏡開車"></a>看著照後鏡開車</h4><p>基本上我們常常將資料分析後用於推論。本質上，是以已知來推測未知；由過去推測未來；或由訓練樣本來推測測驗樣本。以傳統統計的語言來說，其實也就是樣本以及母體的區別。預測也好，所謂的AI也好，都是在做猜測。</p><h4 id="沒有假設，就沒有預測"><a href="#沒有假設，就沒有預測" class="headerlink" title="沒有假設，就沒有預測"></a>沒有假設，就沒有預測</h4><p>預測必然建立在某些假設上，假設也當然會影響預測的本質與準確。而預測講簡白了，也就是猜測—-猜測當然沒有全部或永遠對的時候。</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;一般來說，我們可以將一個資料 (data set)想成一個 Excel的檔案。其中的n筆資料包含了p個變數名稱。例如：班級成績資料，其中包含了 n 位同學的 p 科成績（如國文、英文、數學等）；一般還會有學生姓名及學號等欄位以方便登錄區別。&lt;/p&gt;
+&lt;p&gt;雖然資料可以想像為
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Week 1: Overview</title>
+    <link href="http://chtsao.github.io/preda2018/2018/09/25/hello-world/"/>
+    <id>http://chtsao.github.io/preda2018/2018/09/25/hello-world/</id>
+    <published>2018-09-25T08:01:00.000Z</published>
+    <updated>2018-10-15T04:27:44.504Z</updated>
+    
+    <content type="html"><![CDATA[<p>歡迎來到 Preda 2018 (Fall)! </p><p>這是一個資料的世界–各式各樣資料無所不在，而其中也蘊藏了真實乃至虛擬世界的各種訊息。實境虛境的界線早已模糊，先知與謊騙者難以區分；雖有時可見光明，但闇黑塵囂籠罩—這是一個蠻荒的世界！</p><p><a href="http://faculty.ndhu.edu.tw/~chtsao/edu/18/pda/p2d2018.GC__63860.pdf" target="_blank" rel="noopener">Syllabus 教學計畫表</a></p><h2 id="起點"><a href="#起點" class="headerlink" title="起點"></a>起點</h2><ol><li>About me: 我的角度/偏見</li><li>Prerequisites: Almost surely nontechnical (<del>Calculus, Linear Algebra, Probability, Statistics</del>). 一些高中數學以及不是很討厭數學，統計的態度就是很好的準備。如果你有個喜歡探索，喜歡接觸新奇/不熟悉的事物的心智，你應該會享受這趟心智輕旅行。</li><li>Scope of the course: 資料/資料分析之 聽 <del>說</del> 讀 <del>寫</del></li></ol><h2 id="引想問題"><a href="#引想問題" class="headerlink" title="引想問題"></a>引想問題</h2><h3 id="Data-Analysis-What-Why-and-How"><a href="#Data-Analysis-What-Why-and-How" class="headerlink" title="Data Analysis: What? Why and How?"></a>Data Analysis: What? Why and How?</h3><p>資料分析是什麼？為何我該了解它？而它又會如何影響我？</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;歡迎來到 Preda 2018 (Fall)! &lt;/p&gt;
+&lt;p&gt;這是一個資料的世界–各式各樣資料無所不在，而其中也蘊藏了真實乃至虛擬世界的各種訊息。實境虛境的界線早已模糊，先知與謊騙者難以區分；雖有時可見光明，但闇黑塵囂籠罩—這是一個蠻荒的世界！&lt;/p&gt;
+&lt;p&gt;&lt;a hre
+      
+    
+    </summary>
+    
+      <category term="class" scheme="http://chtsao.github.io/preda2018/categories/class/"/>
+    
+      <category term="announcement" scheme="http://chtsao.github.io/preda2018/categories/class/announcement/"/>
+    
+    
+  </entry>
+  
+</feed>
