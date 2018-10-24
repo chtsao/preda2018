@@ -40,16 +40,46 @@
   </entry>
   
   <entry>
-    <title>w06</title>
+    <title>Week 6 Averagness</title>
     <link href="http://chtsao.github.io/preda2018/2018/10/22/w06/"/>
     <id>http://chtsao.github.io/preda2018/2018/10/22/w06/</id>
     <published>2018-10-22T04:35:51.000Z</published>
-    <updated>2018-10-22T04:35:51.083Z</updated>
+    <updated>2018-10-24T06:53:24.214Z</updated>
+    
+    <content type="html"><![CDATA[<h3 id="平均就是美"><a href="#平均就是美" class="headerlink" title="平均就是美"></a>平均就是美</h3><p>美與吸引力是許多人關注的焦點，在流行時尚界如此，學術界也一樣。透過美，特別是平均臉，這個主題的探討。我們一起來窺探並嘗試知道</p><ul><li>美/beauty/facial attractiveness是什麼？</li><li>美不是特別漂亮？怎麼會這樣想？</li><li>有圖有真相 ！？。</li><li>探討類似問題的架構/想法</li><li>資料收集與資料分析的角色與功能。Analysis: What does it mean?</li></ul><p>訊息區分</p><ul><li>網路/新聞：快速方便但不見得正確，準確；作為某種人氣參考起點</li><li>wiki, 科普; 學校，研究機構科普報導</li><li>書籍</li><li>期刊論文，研討會論文、研究報告</li><li>背景：贊助、互相哄抬、敵對等利益關係</li></ul><p>參考範例</p><ul><li><a href="http://pansci.asia/archives/tag/%E5%B9%B3%E5%9D%87%E8%87%89" target="_blank" rel="noopener">泛科學報導</a></li><li><a href="https://www.niusnews.com/=P2es6008" target="_blank" rel="noopener">妞新聞</a></li></ul><p>Keywords/Links</p><ul><li>Google: <a href="https://www.google.com.tw/search?client=firefox-b&amp;dcr=0&amp;ei=hCrMWuC3IsnQ8wWa0ruQDw&amp;q=%E5%B9%B3%E5%9D%87%E8%87%89&amp;oq=%E5%B9%B3%E5%9D%87%E8%87%89&amp;gs_l=psy-ab.3...6492.7392.0.7750.0.0.0.0.0.0.0.0..0.0....0...1c..64.psy-ab..0.0.0....0.urFbNJG3KlU" target="_blank" rel="noopener">平均臉</a></li><li>Averageness: <a href="https://en.wikipedia.org/wiki/Averageness" target="_blank" rel="noopener">wiki</a></li><li><a href="http://facelab.org/" target="_blank" rel="noopener">facelab.org</a>，<a href="http://www.faceresearch.org/" target="_blank" rel="noopener">faceresearch.org</a></li></ul><ul><li><a href="http://www.uni-regensburg.de/Fakultaeten/phil_Fak_II/Psychologie/Psy_II/beautycheck/english/index.htm" target="_blank" rel="noopener">beautycheck.org</a></li><li><p><a href="https://www.ted.com/talks/anjan_chatterjee_how_your_brain_decides_what_is_beautiful?utm_campaign=tedspread&amp;utm_medium=referral&amp;utm_source=tedcomshare" target="_blank" rel="noopener">How your brain decides what is beautiful</a>@TED ,</p><p> <a href="https://www.ted.com/talks/denis_dutton_a_darwinian_theory_of_beauty?utm_campaign=tedspread&amp;utm_medium=referral&amp;utm_source=tedcomshare" target="_blank" rel="noopener">A Darwinian theory of beauty @TED</a></p></li></ul>]]></content>
     
     <summary type="html">
     
+      
+      
+        &lt;h3 id=&quot;平均就是美&quot;&gt;&lt;a href=&quot;#平均就是美&quot; class=&quot;headerlink&quot; title=&quot;平均就是美&quot;&gt;&lt;/a&gt;平均就是美&lt;/h3&gt;&lt;p&gt;美與吸引力是許多人關注的焦點，在流行時尚界如此，學術界也一樣。透過美，特別是平均臉，這個主題的探討。我們一起來窺探並
+      
+    
     </summary>
     
+    
+  </entry>
+  
+  <entry>
+    <title>w5-2 Expectation</title>
+    <link href="http://chtsao.github.io/preda2018/2018/10/22/w5-2/"/>
+    <id>http://chtsao.github.io/preda2018/2018/10/22/w5-2/</id>
+    <published>2018-10-22T04:35:40.000Z</published>
+    <updated>2018-10-24T07:04:37.338Z</updated>
+    
+    <content type="html"><![CDATA[<h3 id="Expectation-as-a-fair-price"><a href="#Expectation-as-a-fair-price" class="headerlink" title="Expectation as a fair price"></a>Expectation as a fair price</h3><ul><li>Expectation ~ weighted average (over probability) of possible outcomes/values</li><li>Probability (say of a Bernoulli random variable, a coin toss, X=1 if head and X=0 if tail) as a probability<br>$$P(X=1) = E(X) = 0 <em> P(X=0)+ 1 </em> P(X=1).$$</li><li>Long-run frequency interpretation of a probability</li><li>Random vending machine: 是否可接受這樣的販賣機取決於你是否是一個經常使用者。一次，甚至少數次，的使用不見得可以感覺到機率的作用。</li><li>Gambler’s ruin theorem</li><li>St. Petersburg’s paradox</li></ul>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h3 id=&quot;Expectation-as-a-fair-price&quot;&gt;&lt;a href=&quot;#Expectation-as-a-fair-price&quot; class=&quot;headerlink&quot; title=&quot;Expectation as a fair price&quot;&gt;&lt;/a&gt;Expec
+      
+    
+    </summary>
+    
+    
+      <category term="class" scheme="http://chtsao.github.io/preda2018/tags/class/"/>
     
   </entry>
   
