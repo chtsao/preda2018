@@ -6,7 +6,7 @@
   <link href="/preda2018/atom.xml" rel="self"/>
   
   <link href="http://chtsao.github.io/preda2018/"/>
-  <updated>2018-10-22T15:16:51.138Z</updated>
+  <updated>2018-10-29T04:36:46.428Z</updated>
   <id>http://chtsao.github.io/preda2018/</id>
   
   <author>
@@ -15,6 +15,30 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Week 8.1. Midterm Recap</title>
+    <link href="http://chtsao.github.io/preda2018/2018/10/29/w08/"/>
+    <id>http://chtsao.github.io/preda2018/2018/10/29/w08/</id>
+    <published>2018-10-29T04:18:47.000Z</published>
+    <updated>2018-10-29T04:36:46.428Z</updated>
+    
+    <content type="html"><![CDATA[<h3 id="期中報告"><a href="#期中報告" class="headerlink" title="期中報告"></a>期中報告</h3><ul><li>主題：本課程進行至此的一個小評，（建議）包含：<ul><li>摘要：總評</li><li>印象深刻主題：課堂介紹 vs. 自尋資訊</li><li>讚點：課程/導引不錯的點</li><li>建議/不讚點：可改進、不優的部份</li><li>結論：小結。Take-home (brief) comment.</li></ul></li><li>份量：最多 A4兩頁。字體約 12-14.</li><li>繳交：11/11 2359 前以email寄至<a href="mailto:chtsao@gms.ndhu.edu.tw" target="_blank" rel="noopener">chtsao@gms.ndhu.edu.tw</a><br>pdf format is preferred. 若你有另外比較喜歡的方式，如youtube, 影像等方式也歡迎。</li></ul><h3 id="Randomized-Response"><a href="#Randomized-Response" class="headerlink" title="Randomized Response"></a>Randomized Response</h3><p>Survey for embarassing questions</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h3 id=&quot;期中報告&quot;&gt;&lt;a href=&quot;#期中報告&quot; class=&quot;headerlink&quot; title=&quot;期中報告&quot;&gt;&lt;/a&gt;期中報告&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;主題：本課程進行至此的一個小評，（建議）包含：&lt;ul&gt;
+&lt;li&gt;摘要：總評&lt;/li&gt;
+&lt;li&gt;印象深刻主題：課堂
+      
+    
+    </summary>
+    
+    
+  </entry>
   
   <entry>
     <title>Week 7 Intelligence of Dogs</title>
@@ -88,7 +112,7 @@
     <link href="http://chtsao.github.io/preda2018/2018/10/22/w05/"/>
     <id>http://chtsao.github.io/preda2018/2018/10/22/w05/</id>
     <published>2018-10-22T04:35:38.000Z</published>
-    <updated>2018-10-23T04:55:50.560Z</updated>
+    <updated>2018-10-24T07:05:39.068Z</updated>
     
     <content type="html"><![CDATA[<h2 id="Simpson’s-Paradox"><a href="#Simpson’s-Paradox" class="headerlink" title="Simpson’s Paradox"></a>Simpson’s Paradox</h2><p>####Berkeley Grad Admission: Sexual Discrimination</p><h4 id="Who-is-No-1"><a href="#Who-is-No-1" class="headerlink" title="Who is No. 1?"></a>Who is No. 1?</h4><h4 id="Sophomore-Jinx-slump"><a href="#Sophomore-Jinx-slump" class="headerlink" title="Sophomore Jinx/slump"></a>Sophomore Jinx/slump</h4><h2 id="Lesson"><a href="#Lesson" class="headerlink" title="Lesson"></a>Lesson</h2><ul><li>局部關係有可能與整體關係完全相反（如女性錄取率在各所都高於男性錄取率，但整體男性錄取率高於女性）</li><li>比例/百分比 只是資料的一個面向。個數，更重要的可能的干擾因子(confounding factor, 如系所)不見得就在原始資料/報告中，需要深度思考來發掘。所謂的深度（機器）學習一般並無法主動發現。</li><li>辛普森弔詭並不是一個資料/分析錯誤的結果，而是資料本身關聯複雜性的一個呈現。也提醒我們，事情的真相與變數的關聯可能有相當的複雜性。面對這樣的狀況，希冀簡單的解釋，單純的關聯能夠適用一切問題，不只是過份樂觀，甚至是自請災禍了。</li></ul>]]></content>
     
