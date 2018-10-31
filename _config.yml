@@ -5,7 +5,7 @@
 # Site
 title: Prelude to Data Analysis 2018
 subtitle:
-description:
+description: Course Web Preda 2018 
 keywords:
 author: Kno Tsao
 language:
@@ -73,7 +73,7 @@ pagination_dir: page
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: next
+theme: bootstrap-blog
 Plugins:
 - hexo-generator-feed
 - hexo-generator-sitemap
