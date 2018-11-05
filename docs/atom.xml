@@ -6,7 +6,7 @@
   <link href="/preda2018/atom.xml" rel="self"/>
   
   <link href="http://chtsao.github.io/preda2018/"/>
-  <updated>2018-10-29T04:57:18.056Z</updated>
+  <updated>2018-11-05T04:50:30.233Z</updated>
   <id>http://chtsao.github.io/preda2018/</id>
   
   <author>
@@ -15,6 +15,52 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Week 9.1. **有意**的資料收集</title>
+    <link href="http://chtsao.github.io/preda2018/2018/11/05/w09/"/>
+    <id>http://chtsao.github.io/preda2018/2018/11/05/w09/</id>
+    <published>2018-11-05T04:17:06.000Z</published>
+    <updated>2018-11-05T04:50:30.233Z</updated>
+    
+    <content type="html"><![CDATA[<p>沿著假設檢定的介紹，我們來談一下它的上源，資料。</p><ul><li>無心的資料收集</li><li>有心的資料收集: 好心 與 不好心/壞心;  <ul><li><a href="https://pdfs.semanticscholar.org/711e/6d17340b243573c07ec888c569e981e27e67.pdf" target="_blank" rel="noopener">Sampling/Reasoning towards a foregone solution</a></li><li><a href="https://effectsizefaq.com/2010/05/30/what-is-the-&quot;curse-of-multiplicity&quot;/" target="_blank" rel="noopener">Multiplicity problem</a></li></ul></li><li>有（好）心資料資料收集</li></ul>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;沿著假設檢定的介紹，我們來談一下它的上源，資料。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;無心的資料收集&lt;/li&gt;
+&lt;li&gt;有心的資料收集: 好心 與 不好心/壞心;  &lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://pdfs.semanticscholar.org/711e/6d1
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Week 8.2. H_0 vs. H_1</title>
+    <link href="http://chtsao.github.io/preda2018/2018/11/05/Week-8-2/"/>
+    <id>http://chtsao.github.io/preda2018/2018/11/05/Week-8-2/</id>
+    <published>2018-11-05T03:43:42.000Z</published>
+    <updated>2018-11-05T04:16:29.169Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="假設檢定-Hypothesis-Testing"><a href="#假設檢定-Hypothesis-Testing" class="headerlink" title="假設檢定 Hypothesis Testing"></a>假設檢定 Hypothesis Testing</h2><ul><li>問問題的模式，影響它被回答的方式，間接地影響到結果，結論以及延伸的詮釋。</li><li>法庭審查：無罪推定/Presumtion of  innnocence<br>$$ H_0: \text{A 無罪}. \quad vs. H_1: \text{A 無罪}$$<br>勿枉勿縱是理想，但實際上無法做到。退而求其次，不冤優先，次而不縱。</li><li>統計假設檢定：H_0_ 推定。當證據不足/不夠強時，就回到 H_0_<br>這其實也是一個實務的作法，並無法保證 H_0_是對的。</li><li>在許多報告/報導/廣告中，常可見到假設檢定的身影。要注意<ul><li>H_0_, H_1_ 是怎麼放的？合理嗎？</li><li>報導的是<strong>證據不足不棄卻 H_0_</strong> 還是<strong>棄卻 H_0_ 支持 H_1</strong> 的結果。一般來說，如僅是前者，基本上只是沿用過去，或相信的作法，並沒有什麼資料證據可言。</li></ul></li></ul>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h2 id=&quot;假設檢定-Hypothesis-Testing&quot;&gt;&lt;a href=&quot;#假設檢定-Hypothesis-Testing&quot; class=&quot;headerlink&quot; title=&quot;假設檢定 Hypothesis Testing&quot;&gt;&lt;/a&gt;假設檢定 Hypothesis T
+      
+    
+    </summary>
+    
+    
+  </entry>
   
   <entry>
     <title>Week 8.1. Midterm Recap</title>
