@@ -2,9 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://chtsao.github.io/preda2018/2018/12/10/proj/</loc>
+    
+    <lastmod>2018-12-10T15:22:46.479Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://chtsao.github.io/preda2018/2018/12/10/w14/</loc>
     
-    <lastmod>2018-12-10T04:59:22.264Z</lastmod>
+    <lastmod>2018-12-10T05:00:17.961Z</lastmod>
     
   </url>
   
@@ -30,6 +37,20 @@
   </url>
   
   <url>
+    <loc>http://chtsao.github.io/preda2018/2018/11/12/w10a/</loc>
+    
+    <lastmod>2018-11-28T04:48:27.715Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://chtsao.github.io/preda2018/2018/11/19/w11/</loc>
+    
+    <lastmod>2018-11-28T04:48:27.715Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://chtsao.github.io/preda2018/2018/11/05/Week-8-2/</loc>
     
     <lastmod>2018-11-28T04:48:27.715Z</lastmod>
@@ -51,35 +72,14 @@
   </url>
   
   <url>
-    <loc>http://chtsao.github.io/preda2018/2018/11/12/w10a/</loc>
+    <loc>http://chtsao.github.io/preda2018/2018/10/29/w08/</loc>
     
-    <lastmod>2018-11-28T04:48:27.715Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://chtsao.github.io/preda2018/2018/11/19/w11/</loc>
-    
-    <lastmod>2018-11-28T04:48:27.715Z</lastmod>
+    <lastmod>2018-11-28T04:48:27.714Z</lastmod>
     
   </url>
   
   <url>
     <loc>http://chtsao.github.io/preda2018/2018/10/15/Week-3-Data-Analysis-%E4%B9%8B%E5%89%8D%E5%BE%8C%E4%B8%8A%E4%B8%8B/</loc>
-    
-    <lastmod>2018-11-28T04:48:27.714Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://chtsao.github.io/preda2018/2018/09/25/hello-world/</loc>
-    
-    <lastmod>2018-11-28T04:48:27.714Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://chtsao.github.io/preda2018/2018/10/07/post/</loc>
     
     <lastmod>2018-11-28T04:48:27.714Z</lastmod>
     
@@ -100,13 +100,6 @@
   </url>
   
   <url>
-    <loc>http://chtsao.github.io/preda2018/2018/10/22/w07/</loc>
-    
-    <lastmod>2018-11-28T04:48:27.714Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>http://chtsao.github.io/preda2018/2018/10/22/w06/</loc>
     
     <lastmod>2018-11-28T04:48:27.714Z</lastmod>
@@ -114,7 +107,21 @@
   </url>
   
   <url>
-    <loc>http://chtsao.github.io/preda2018/2018/10/29/w08/</loc>
+    <loc>http://chtsao.github.io/preda2018/2018/10/22/w07/</loc>
+    
+    <lastmod>2018-11-28T04:48:27.714Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://chtsao.github.io/preda2018/2018/09/25/hello-world/</loc>
+    
+    <lastmod>2018-11-28T04:48:27.714Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://chtsao.github.io/preda2018/2018/10/07/post/</loc>
     
     <lastmod>2018-11-28T04:48:27.714Z</lastmod>
     
