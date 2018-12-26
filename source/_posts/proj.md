@@ -22,7 +22,6 @@ tags: project, presentation, final
 3. 鄒采晏: 被誤解的犯罪學
 4. 陳姵諭: Dark Web
 5. 莫承衡: 金字塔底層大商機
-
 6. 蘇羿豪: How to lie with statistics
 7. 陳毓晴: Awards and the Longevity of Musicals
 8. 彭長元: 統計的迷思--會騙人的數字 
